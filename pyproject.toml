@@ -5,6 +5,9 @@ description = "Option B2 "
 authors = ["Paige Yi"]
 license = "MIT"
 readme = "README.md"
+documentation = 'https://yi-package-columbia.readthedocs.io/en/latest/'
+homepage = "https://github.com/pjyi/yi_pacakge"
+repository = "https://github.com/pjyi/yi_pacakge"
 
 [tool.poetry.dependencies]
 python = "^3.9"
