@@ -24,4 +24,6 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 `yi_package` was created with [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and the `py-pkgs-cookiecutter` [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
 
-Paige just made some changes
+Paige just made some changes by adding this new line
+`:wq
+s
